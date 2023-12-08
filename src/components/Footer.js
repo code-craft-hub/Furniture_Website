@@ -29,7 +29,7 @@ const Footer = () => {
         {/* copyright */}
         <p className="text-center">
           &copy; FurniShop 2023 - All right reserved
-          <span className="text-[20px] text-orange-600"> KACHI</span>
+          <span className="text-[20px] text-orange-600"> <a href="https://codecrafthub.tech" className='text-accent'> CodeCraftHub </a></span>
         </p>
       </div>
     </footer>
